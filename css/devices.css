@@ -1,0 +1,22 @@
+h3{
+    margin:5px;
+    padding: 5px;
+    color: black;
+}
+
+.btn-custom{
+ border: none;
+}
+
+#toolbar-admin{
+    display: none;
+}
+
+.panel-primary {
+    border: none;
+    background: rgba(225,225,225);
+    opacity: 0.8;
+    filter: alpha(opacity=80);}
+.panel-heading {background: rgba(225,225,225, .8)
+  border: none;
+}

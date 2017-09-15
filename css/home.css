@@ -1,0 +1,13 @@
+.form-horizontal {
+	max-width: 400px;
+ 	padding: 5px;
+  	margin: 0 auto;
+  	
+
+}
+
+.col-md-8 {
+	
+	background: rgba(225,225,225, .8);
+	height: 766px;
+}

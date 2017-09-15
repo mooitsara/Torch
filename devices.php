@@ -10,7 +10,7 @@
 <!-- <script src="https://www.gstatic.com/firebasejs/3.9.0/firebase.js"></script>
 <script>
   // Initialize Firebase
-  var config = {
+  var config = { 
     apiKey: "AIzaSyCyKYtA2gSbVMeLPemffb6o5a74MtzPMqw",
     authDomain: "comaid-a00f8.firebaseapp.com",
     databaseURL: "https://comaid-a00f8.firebaseio.com",
